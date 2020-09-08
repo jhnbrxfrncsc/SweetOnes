@@ -1,2 +1,2 @@
 # BakeCheri
-A website for BakeCheri's Business
+A website for BakeCheri
