@@ -1,0 +1,88 @@
+const items = [
+    {
+        id: 1,
+        name: "Sweet Item",
+        image: "img/sweets-1.jpeg",
+        price: 30,
+        category: ["Sweets", "All"],
+    },
+    {
+        id: 2,
+        name: "Cupcake Item",
+        image: "img/cupcake-1.jpeg",
+        price: 24,
+        category: ["Cupcakes", "All"],
+    },
+    {
+        id: 3,
+        name: "Cake Item",
+        image: "img/cake-1.jpeg",
+        price: 26,
+        category: ["Cakes", "All"],
+    },
+    {
+        id: 4,
+        name: "Doughnut Item",
+        image: "img/doughnut-1.jpeg",
+        price: 82,
+        category: ["Doughnuts", "All"],
+    },
+    {
+        id: 5,
+        name: "Sweets Item",
+        image: "img/sweets-2.jpeg",
+        price: 45,
+        category: ["Sweets", "All"],
+    },
+    {
+        id: 6,
+        name: "Cupcake Item",
+        image: "img/cupcake-2.jpeg",
+        price: 80,
+        category: ["Cupcakes", "All"],
+    },
+    {
+        id: 7,
+        name: "Cake Item",
+        image: "img/cake-2.jpeg",
+        price: 250,
+        category: ["Cakes", "All"],
+    },
+    {
+        id: 8,
+        name: "Doughnut Item",
+        image: "img/doughnut-2.jpeg",
+        price: 15,
+        category: ["Doughnuts", "All"],
+    },
+    {
+        id: 9,
+        name: "Sweets Item",
+        image: "img/sweets-3.jpeg",
+        price: 48,
+        category: ["Sweets", "All"],
+    },
+    {
+        id: 10,
+        name: "Cupcake Item",
+        image: "img/cupcake-3.jpeg",
+        price: 27,
+        category: ["Cupcakes", "All"],
+    },
+    {
+        id: 11,
+        name: "Cake Item",
+        image: "img/cake-3.jpeg",
+        price: 500,
+        category: ["Cakes", "All"],
+    },
+    {
+        id: 12,
+        name: "Doughnut Item",
+        image: "img/doughnut-3.jpeg",
+        price: 10,
+        category: ["Doughnuts", "All"],
+    },
+]
+
+export default items;
